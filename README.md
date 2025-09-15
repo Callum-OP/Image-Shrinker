@@ -1,5 +1,10 @@
 # How to run
-Just open the site on the index page (https://callum-op.github.io/Image-Shrinker/) and enter your desired files, choose your desired percentage and click download, 
+You can use the Image Shrinker directly in your browser:
+
+- [Try on GitHub Pages](https://callum-op.github.io/Image-Shrinker/)
+- [Try on Itch.io](https://callum-op.itch.io/image-shrinker)
+
+Enter your desired files, choose your desired percentage and click download, 
 if you have over 5 images selected they will be put into a zip folder.
 
 # About the app
